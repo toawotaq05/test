@@ -15,3 +15,5 @@ area= (30*np.random.rand(N))**2
 plt.scatter(x,y,s=area, c=colors, alpha=0.5)
 plt.show()
 test
+
+25+100202
